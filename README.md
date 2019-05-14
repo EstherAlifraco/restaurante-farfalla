@@ -1,5 +1,5 @@
 # restaurante-farfalla
 
 
-[![Build Status](https://travis-ci.org/EstherAlifraco/restaurante-farfalla/builds/532264371)]
+[![Build Status](https://travis-ci.org/luis-fuentes/blog.svg?branch=master)]
 (https://travis-ci.org/luis-fuentes/blog)
