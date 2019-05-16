@@ -1,0 +1,8 @@
+language: java
+notifications:
+  email:
+    - estheralifraco@gmail.com
+    - nataliacipollino@outlook.com
+    - pereyra.m@outlook.com
+    - leacoro11@gmail.com
+    
