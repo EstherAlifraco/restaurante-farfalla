@@ -205,3 +205,4 @@ public class UsuarioMockitoTest extends SpringTest{
 	}
 
 }
+
