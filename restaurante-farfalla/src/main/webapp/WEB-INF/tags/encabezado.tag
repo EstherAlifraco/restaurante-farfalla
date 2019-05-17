@@ -30,10 +30,10 @@
         <a class="dropdown-toggle" style="color: white" data-toggle="dropdown" href="#">Menú
         <span class="caret"></span></a>
         <ul class="dropdown-menu">
-          <li><a href="#" style="color: #cb2121">Ensaladas</a></li>
-          <li><a href="#" style="color: #cb2121">Pizzas</a></li>
-          <li><a href="#" style="color: #cb2121">Pastas</a></li>
-          <li><a href="#" style="color: #cb2121">Postres</a></li>
+          <li><a href="${url}/menu/ensalada" style="color: #cb2121">Ensaladas</a></li>
+          <li><a href="${url}/menu/pizza" style="color: #cb2121">Pizzas</a></li>
+          <li><a href="${url}/menu/pasta" style="color: #cb2121">Pastas</a></li>
+          <li><a href="${url}/menu/postre" style="color: #cb2121">Postres</a></li>
         </ul>
       </li>
       <li class="dropdown">
