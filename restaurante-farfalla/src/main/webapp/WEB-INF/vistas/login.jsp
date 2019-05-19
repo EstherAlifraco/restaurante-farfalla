@@ -19,10 +19,13 @@
 
 					<%--Elementos de entrada de datos, el elemento path debe indicar en que atributo del objeto usuario se guardan los datos ingresados--%>
 					<label for="email">Email:</label>
-					<form:input path="email" id="email" type="email" class="form-control" />
+					<form:input path="email" id="email" type="email" class="form-control" placeholder="Email" />
+					<br>
+					<label for="email">Nombre</label>
+					<form:input path="nombre" id="nombre" type="test" class="form-control" placeholder="Nombre" />
 					<br>
 					<label for="email">Password:</label>
-					<form:input path="password" type="password" id="password" class="form-control"/>     		  
+					<form:input path="password" type="password" id="password" class="form-control" placeholder="Password" />     		  
 					<br>
 					<button class="btn btn-lg btn-primary btn-block btn-danger" Type="Submit"> Ingresar</button>
 

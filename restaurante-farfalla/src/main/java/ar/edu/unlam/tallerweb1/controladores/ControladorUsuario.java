@@ -38,8 +38,9 @@ public class ControladorUsuario {
 	public ModelAndView validarLogin(@ModelAttribute("usuario") Usuario usuario, HttpServletRequest request) {
 		ModelMap model = new ModelMap();
 
-		Usuario usuarioBuscado = servicioUsuario.login(usuario.getNombre(),usuario.getPassword());
+		Usuario usuarioBuscado = servicioUsuario.login(usuario.getEmail(),usuario.getNombre(),usuario.getPassword());
 		if (usuarioBuscado != null) {
+			request.getSession().setAttribute("usuarioEmail", usuarioBuscado.getEmail());
 			request.getSession().setAttribute("usuarioNombre", usuarioBuscado.getNombre());
 			request.getSession().setAttribute("usuarioId", usuarioBuscado.getId());
 			return new ModelAndView("redirect:/");

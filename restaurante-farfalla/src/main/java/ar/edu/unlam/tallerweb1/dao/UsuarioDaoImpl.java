@@ -31,9 +31,10 @@ public class UsuarioDaoImpl implements UsuarioDao {
 	//Comprobar las credenciales y retorna el usuario logeado, si las credenciales son incorrectas
 	//o el usuario no existe retorna null
 	@Override
-	public Usuario login(String nombre, String password) {
+	public Usuario login(String email, String nombre, String password) {
 		final Session session = sessionFactory.getCurrentSession();
 		return (Usuario) session.createCriteria(Usuario.class)
+				.add(Restrictions.eq("email", email))
 				.add(Restrictions.eq("nombre", nombre))
 				.add(Restrictions.eq("pass", password))
 				.uniqueResult();

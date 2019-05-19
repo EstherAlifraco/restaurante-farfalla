@@ -75,5 +75,30 @@
 			<type>1</type>
 			<location>E:/impre/Taller Web/Restaurante-Farfalla/farfalla6.jpg</location>
 		</link>
+		<link>
+			<name>src/main/webapp/img/ensalada/ensalada.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/ensalada.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/ensalada/ensalada1.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/ensalada1.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/ensalada/ensalada2.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/ensalada2.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/ensalada/ensalada3.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/ensalada3.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/ensalada/ensalada4.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/ensalada4.jpg</location>
+		</link>
 	</linkedResources>
 </projectDescription>
