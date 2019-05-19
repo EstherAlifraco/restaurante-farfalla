@@ -100,5 +100,120 @@
 			<type>1</type>
 			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/ensalada4.jpg</location>
 		</link>
+		<link>
+			<name>src/main/webapp/img/pasta/pasta.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/pasta.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/pasta/pasta1.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/pasta1.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/pasta/pasta2.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/pasta2.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/pasta/pasta3.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/pasta3.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/pasta/pasta4.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/pasta4.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/pasta/pasta5.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/pasta5.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/pasta/pasta6.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/pasta6.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/pasta/pasta7.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/pasta7.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/pasta/pasta8.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/pasta8.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/pizza/pizza.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/pizza.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/pizza/pizza1.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/pizza1.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/pizza/pizza2.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/pizza2.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/pizza/pizza3.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/pizza3.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/pizza/pizza4.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/pizza4.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/pizza/pizza5.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/pizza5.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/pizza/pizza6.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/pizza6.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/postre/postre.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/postre.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/postre/postre1.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/postre1.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/postre/postre2.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/postre2.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/postre/postre3.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/postre3.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/postre/postre4.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/postre4.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/postre/postre5.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/postre5.jpg</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/postre/postre6.jpg</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/postre6.jpg</location>
+		</link>
 	</linkedResources>
 </projectDescription>

@@ -7,11 +7,13 @@
 <%@taglib prefix="t" tagdir="/WEB-INF/tags" %>
 <t:encabezado>
 	<jsp:attribute name="body">
-	<div>
 	    <br>
-	    <h2><span style="color: #cb2121">ENSALADAS </span></h2>
+	    <div class="titulo"><h1>ENSALADAS</h1>
 	</div>
+	<br>
+	<br>
 	<link href="${url}/css/clases.css" rel="stylesheet" >
+<div class="contenedor_principal">	
 <div class="contenedor_imagen_texto">
 <div class="imagen"><img src="${url}/img/ensalada/ensalada.jpg" alt="Restaurante Farfalla" width="220" height="100" TITLE="Variado de lechugas, tomate confitado, queso stracciatella, perlas de pesto y confettura de melocotón. Acompañado de helado de albahaca y pane pergamena."></div>
 <div class="texto">INSALATA BASÍLICO CAPRESE</div>
@@ -36,8 +38,8 @@
 <div class="imagen"><img src="${url}/img/ensalada/ensalada4.jpg" alt="Restaurante Farfalla" width="220" height="100" TITLE="Variado de lechugas, pastel de parmigiano, tomate confitado, pera caramelizada, jamón de pato y virutas de parmigiano reggiano."></div>
 <div class="texto">INSALATA DI TORTINO AL PARMIGIANO</div>
 </div>
+</div>
 
-	
 	</jsp:attribute>
 </t:encabezado>
 </html>
