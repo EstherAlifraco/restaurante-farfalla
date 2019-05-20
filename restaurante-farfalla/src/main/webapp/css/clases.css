@@ -48,3 +48,13 @@ font-size:medium;
 margin:20px 20px;
 }
 
+.Pie-pagina{
+  position: relative;
+  margin-top: -50px;
+  height: 80px;
+  padding:5px 0px;
+  clear: both;
+  background-color: #cb2121;
+  color: white;
+  text-align: center;
+}

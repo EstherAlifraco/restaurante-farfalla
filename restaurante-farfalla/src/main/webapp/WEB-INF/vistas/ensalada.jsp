@@ -39,7 +39,8 @@
 <div class="texto">INSALATA DI TORTINO AL PARMIGIANO</div>
 </div>
 </div>
-
+<br>
+<br>
 	</jsp:attribute>
 </t:encabezado>
 </html>

@@ -18,6 +18,7 @@
 	    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
 	    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 	    <link href="${url}/js/bootstrap.min.js">
+	    <link href="${url}/css/clases.css" rel="stylesheet" >
 	    
 	</head>
 	<body>
@@ -63,6 +64,18 @@
 					<jsp:invoke fragment="body"/>
 				</div>
 			</div>
+			<footer>		
+     <div class="Pie-pagina">
+                <p>Direccion: Arieta 3100 (Frente a la Plaza de San Justo)
+                Telefono: 5555-5555</p>
+<a title="facebook" href="https://www.facebook.com/"><img src="${url}/img/footer/facebook.png" width="40" height="40"></a>
+${facebook}
+<a title="twitter" href="https://www.twitter.com/"><img src="${url}/img/footer/twitter.png" width="40" height="40"></a>
+${twitter}
+<a title="instagram" href="https://www.instagram.com/"><img src="${url}/img/footer/instagram.png" width="40" height="40"></a>
+${instagram}
+      </div>
+      </footer>
 		<script src="${url}/js/jquery-3.0.0.min.js"></script>
 		<script src="${url}/js/bootstrap.min.js" type="text/javascript"></script>
 		<script src="${url}/js/jquery.dataTables.min.js" type="text/javascript"></script>

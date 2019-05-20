@@ -49,7 +49,8 @@
 <div class="texto">AL PARMIGIANO</div>
 </div>
 </div>
-	
+<br>
+<br>	
 	</jsp:attribute>
 </t:encabezado>
 </html>

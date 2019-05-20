@@ -48,8 +48,9 @@
 <div class="imagen"><img src="${url}/img/postre/postre6.jpg" alt="Restaurante Farfalla" width="220" height="100" TITLE="3 / 5 uds."></div>
 <div class="texto">TRUFAS AL CIOCCOLATO</div>
 </div>
-	
-</div>	
+	</div>	
+	<br>
+<br>
 	</jsp:attribute>
 </t:encabezado>
 </html>

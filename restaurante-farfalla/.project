@@ -101,6 +101,21 @@
 			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/ensalada4.jpg</location>
 		</link>
 		<link>
+			<name>src/main/webapp/img/footer/facebook.png</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/facebook.png</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/footer/instagram.png</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/instagram.png</location>
+		</link>
+		<link>
+			<name>src/main/webapp/img/footer/twitter.png</name>
+			<type>1</type>
+			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/twitter.png</location>
+		</link>
+		<link>
 			<name>src/main/webapp/img/pasta/pasta.jpg</name>
 			<type>1</type>
 			<location>E:/impre/Taller Web/Restaurante-Farfalla/Img/pasta.jpg</location>

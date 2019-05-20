@@ -169,6 +169,8 @@
       <div class="subtitulo1">Diavolo rosso</div>
 
 <pre>     Nduja picante calabresa, champiñones, guisantes y tomate</pre>
+<br>
+<br>
 
 	</jsp:attribute>
 </t:encabezado>
